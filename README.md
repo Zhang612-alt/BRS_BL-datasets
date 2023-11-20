@@ -15,10 +15,10 @@ We have publicly released four datasets mentioned in the paper, each of which re
 
 | Project | Number of Bug Reports |
 | ------- | --------------------- |
-| Tomcat  | 355                   |
-| SWT     | 1986                  |
-| Eclipse | 3287                  |
-| JDT     | 2592                  |
+| Tomcat  | 200                   |
+| SWT     | 200                   |
+| Eclipse | 200                   |
+| JDT     | 200                   |
 
 
 
